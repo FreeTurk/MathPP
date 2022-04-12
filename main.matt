@@ -1,0 +1,24 @@
+// How to Print
+print 5%2
+
+// Variables, always mutable
+
+var peace = "piss"
+
+iter iteration (10, 100, 4, 10, *)
+
+// Printing an element from the iteration
+
+print iteration[2]
+
+// 'chkpol' is a command that checks if the input is even or odd. It outputs a boolean to the given object, 'True' if the number is even and 'False' if the number is odd.
+
+chkpol isEven = iteration[2]
+
+print isEven
+
+// Printing the said variable
+
+print peace
+
+// This is a sad and lonely comment ;-;
